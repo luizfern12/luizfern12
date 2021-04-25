@@ -1,0 +1,2 @@
+- Oi, eu sou @luizfern12
+- Estou Aprendendo python e c#
