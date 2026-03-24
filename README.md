@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">App and game developer, i like everything related to linux</p>
+<p align="left">App and game developer, i like everything linux related</p>
 
 ###
 
