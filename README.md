@@ -36,10 +36,6 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Arch Linux-00979D?logo=archlinux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/luizfern12/luizfern12/output/snake.svg" alt="Snake animation" />
-
-###
